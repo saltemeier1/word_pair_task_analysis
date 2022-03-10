@@ -1,0 +1,102 @@
+(program version	WP	date:	February 22, 2016)
+ran for subject:	Bengi_Test	when:	09.24.2021 21:18
+Session #:	1
+Presenting word pair	chin	snake
+Presenting word pair	club	eye
+Presenting word pair	sky	glue
+Presenting word pair	pill	boat
+Presenting word pair	sand	nail
+Presenting word pair	boy	cup
+Presenting word pair	leg	stove
+Presenting word pair	farm	stick
+Presenting word pair	jam	tree
+Presenting word pair	floor	pole
+Presenting word pair	hat	dirt
+Presenting word pair	fruit	moon
+Presenting word pair	glove	fly
+Presenting word pair	park	hand
+Presenting word pair	seed	hook
+Presenting word pair	rock	cheek
+Presenting word pair	card	air
+Presenting word pair	bush	rope
+Presenting word pair	king	coach
+Presenting word pair	coat	scale
+Presenting word pair	map	cast
+Presenting word pair	bank	page
+Presenting word pair	stair	ink
+Presenting word pair	aunt	zoo
+ 	PROMPT	correct response	SUBJECT RESPONSE	correct?	RT
+Response to	boy	cup	cup	1	2674
+Response to	farm	stick	stick	1	3170
+Response to	pill	boat	boat	1	2932
+Response to	floor	pole	pole	1	5244
+Response to	fruit	moon	moon	1	3477
+Response to	hat	dirt	dirt	1	3013
+Response to	leg	stove	stove	1	2640
+Response to	jam	tree	tree	1	3855
+Response to	sky	glue	glue	1	2924
+Response to	sand	nail	nail	1	2909
+Response to	bank	page	page	1	2473
+Response to	park	hand	hand	1	3743
+Response to	rock	cheek	cheek	1	4296
+Response to	coat	scale	scale	1	2642
+Response to	bush	rope	rope	1	2622
+Response to	card	air	air	1	3316
+Response to	seed	hook	hook	1	3145
+Response to	glove	fly	bug	0	14292
+Response to	map	cast	scale	0	10684
+Response to	king	coach	coach	1	3353
+(program version	WP	date:	February 22, 2016)
+ran for subject:	Bengi_test	when:	09.24.2021 21:47
+Session #:	2
+ 	PROMPT	correct response	SUBJECT RESPONSE	correct?	RT
+Response to	boy	cup	cup	1	2486
+Response to	floor	pole	pole	1	3151
+Response to	pill	boat	boat	1	2717
+Response to	farm	stick	stick	1	2711
+Response to	fruit	moon	tree	0	3722
+Response to	leg	stove	stove	1	13478
+Response to	sky	glue	glue	1	4753
+Response to	hat	dirt	dirt	1	3340
+Response to	sand	nail	nail	1	3315
+Response to	jam	tree	tree	1	3536
+Response to	rock	cheek	cheek	1	4000
+Response to	coat	scale	scale	1	3813
+Response to	bank	page	page	1	4106
+Response to	bush	rope	rope	1	4110
+Response to	park	hand	hand	1	3578
+Response to	map	cast	cast	1	4283
+Response to	glove	fly	fly	1	2994
+Response to	king	coach	coach	1	3932
+Response to	card	air	air	1	9243
+Response to	seed	hook	hook	1	3136
+19	out of	20	correct on iteration	1
+END
+
+(program version	WP	date:	February 22, 2016)
+ran for subject:	Bengi_test	when:	09.25.2021 08:23
+Session #:	3
+ 	PROMPT	correct response	SUBJECT RESPONSE	correct?	RT
+Response to	fruit	moon	moon	1	4344
+Response to	pill	boat	boat	1	2472
+Response to	farm	stick	stick	1	4431
+Response to	floor	pole	pole	1	3113
+Response to	boy	cup	cup	1	2740
+Response to	leg	stove	stove	1	3161
+Response to	hat	dirt	dirt	1	3382
+Response to	sky	glue		0	15002
+Response to	jam	tree	tree	1	3340
+Response to	sand	nail	nail	1	3886
+Response to	rock	cheek	cheek	1	3332
+Response to	bank	page	page	1	2499
+Response to	park	hand	hand	1	4913
+Response to	coat	scale	scale	1	3238
+Response to	bush	rope	rope	1	2780
+Response to	card	air	air	1	2820
+Response to	map	cast	cast	1	3635
+Response to	seed	hook	hook	1	2816
+Response to	glove	fly	fly	1	3246
+Response to	king	coach	coach	1	8192
+19	out of	20	correct on iteration	1
+END
+
